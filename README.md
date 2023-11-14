@@ -1,6 +1,6 @@
 # About
 
-Sample solutions for HackDLRC Sample Problem.  
+Sample solutions for [HackDLRC](hack.dlrc.in) Sample Problem.  
 Assumes input is stored in a file called input.txt (included).
 
 # Languages
