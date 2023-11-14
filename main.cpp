@@ -9,9 +9,9 @@ int main(int argc, char** argv) {
     string line;
 
     long sum = 0;
-    while (getline(input_file, line)) {
-        int num = stoi(line);
-        sum += num * num;
+    while (getline(input_file, line)) {  // Read input file
+        int num = stoi(line);            // Convert line to int
+        sum += num * num;                // Square number, add to sum
     }
 
     cout << "The sum is " << sum << endl;
