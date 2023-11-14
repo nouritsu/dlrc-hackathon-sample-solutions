@@ -11,4 +11,4 @@ const squares = readData
 
 const sum = squares.reduce((previous, current) => previous + current, 0); // Find sum of each squared number
 
-console.log(`The value is ${sum}`);
+console.log(`The sum is ${sum}`);
